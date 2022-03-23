@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637836266590264497
-    m_Hash: 728776223
+      ticks: 637836275217518971
+    m_Hash: 3529745186
   m_LockFileStatus:
     m_FilePath: C:/KouluStuff/Unityt/VikingGameNew/ViikinkiPeli/VikingGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637836266652153736
-    m_Hash: 2249468046
+      ticks: 637836275217518971
+    m_Hash: 173850735
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
